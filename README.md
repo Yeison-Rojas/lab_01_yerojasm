@@ -1,6 +1,6 @@
 # lab01- sumador 
 
-FERNEY a BELTRAN cOD 260108
+ PRUEBA DE LA PRUEBA 2 
 
 ## informe de laoratorio 
 
