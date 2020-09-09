@@ -1,5 +1,7 @@
 # lab01- sumador 
-este es mi trabajo
+Estudiante Ferney Beltran 
 
-profesor ferney 
 
+## informe de laoratorio 
+
+### sumador 
